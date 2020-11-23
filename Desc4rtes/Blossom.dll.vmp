@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="x64\Release\Blossom.dll" Options="857032" LicenseDataFileName="x64\Release\Blossom.dll.vmp">
+        <Messages />
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$12" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$13" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$14" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$0" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$15" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$16" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$1" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$24" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$2" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$5" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$3" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$8" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$7" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$48" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$52" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$51" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$50" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$49" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$47" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$45" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$46" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$42" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$44" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$43" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$41" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$40" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$39" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$38" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$37" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$36" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$35" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$34" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$33" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$32" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$31" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$30" Options="0" />
+            <Procedure MapAddress="`Menu::Render&apos;::`1&apos;::dtor$25" Options="0" />
+            <Procedure MapAddress="`WebWinhttp&apos;::`1&apos;::dtor$0" Options="0" />
+            <Procedure MapAddress="`WebWinhttp&apos;::`1&apos;::dtor$1" Options="0" />
+            <Procedure MapAddress="`WebWinhttp&apos;::`1&apos;::dtor$2" Options="0" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+</Document>
